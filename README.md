@@ -13,7 +13,7 @@ It automatically creates a backup of files uploaded to a s3 bucket ensure data s
  # Key Features
 1. Automatic file backup
 2. Event-driven execution
-3.Serverless architecture
+3. Serverless architecture
 4. Helps prevent data loss
 ## Learning Outcome
 1. Understanding AWS Lambda and S3 integration
